@@ -140,3 +140,7 @@ This project reflects my skills in:
 
 ---
 ## 📊 Dashboard Previews
+1.	https://github.com/sonusinghravani/Mobile-Sales-Dashboard/blob/main/1.Dashboard.png
+2.	https://github.com/sonusinghravani/Mobile-Sales-Dashboard/blob/main/2.MTD%20Report.png
+3.	https://github.com/sonusinghravani/Mobile-Sales-Dashboard/blob/main/3.Same%20Period%20Last%20Year.png
+
